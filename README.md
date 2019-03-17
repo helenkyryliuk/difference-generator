@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/helenkyryliuk/Generator-of-Differences.svg?branch=master)](https://travis-ci.org/helenkyryliuk/Generator-of-Differences)
-[![Maintainability](https://api.codeclimate.com/v1/badges/13e95e7bd4499b4b6898/maintainability)](https://codeclimate.com/github/helenkyryliuk/project-lvl2-s225/maintainability)
+[![Build Status](https://travis-ci.org/helenkyryliuk/difference-generator.svg?branch=master)](https://travis-ci.org/helenkyryliuk/difference-generator)
+[![Maintainability](https://api.codeclimate.com/v1/badges/378e2c06293def1f9e55/maintainability)](https://codeclimate.com/github/helenkyryliuk/difference-generator/maintainability)
 
 #  Generator of differences
 
