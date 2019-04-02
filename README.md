@@ -11,6 +11,10 @@
 
 ### A command line interface utility for finding differences in configuration files.
 
+<p align="center">
+  <img alt="brain progression game example" width="800"  src="">
+</p>
+
 ```
 gendiff -h
 
@@ -90,10 +94,4 @@ Property 'group3' was added with complex value
 
 Project is created with:
 * ES6
-* AJAX using Axios
 * Node.js
-* JQuery
-* Webpack
-* DOMParser
-* CORS Proxy
-* WatchJS (pattern Observer for View)

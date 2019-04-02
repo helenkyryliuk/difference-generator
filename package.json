@@ -14,12 +14,15 @@
     "eslint": "eslint",
     "test:watch": "npm test -- --watch"
   },
+  "files": [
+    "dist"
+  ],
   "jest": {
     "testEnvironment": "node"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helenkyryliuk/project-lvl2-s225.git"
+    "url": "git+https://github.com/helenkyryliuk/difference-generator"
   },
   "keywords": [
     "gendiff"
@@ -27,9 +30,9 @@
   "author": "Helen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/helenkyryliuk/project-lvl2-s225/issues"
+    "url": "https://github.com/helenkyryliuk/difference-generator/issues"
   },
-  "homepage": "https://github.com/helenkyryliuk/project-lvl2-s225#readme",
+  "homepage": "https://github.com/helenkyryliuk/difference-generator#readme",
   "dependencies": {
     "commander": "*",
     "file-system": "^2.2.2",
