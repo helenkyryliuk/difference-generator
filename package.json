@@ -14,9 +14,6 @@
     "eslint": "eslint",
     "test:watch": "npm test -- --watch"
   },
-  "files": [
-    "dist"
-  ],
   "jest": {
     "testEnvironment": "node"
   },

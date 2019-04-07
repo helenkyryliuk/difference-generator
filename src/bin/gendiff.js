@@ -10,7 +10,7 @@ export default program
   .version(version, '-V, --version')
   .arguments('<firstConfig>')
   .arguments('<secondConfig>')
-  .action((firstConfig, secondConfig, options) => console.log(genDiff(firstConfig, secondConfig, options.format)))
+  .action((firstConfig, secondConfig) => console.log(genDiff(firstConfig, secondConfig)))
   .description('Compares two configuration files and shows a difference.')
-  .option('-f, --format [type]', 'Specified type of render [tree]', 'treeRender')
+  .option('-f, --format [type]', 'Output format', 'diff')
   .parse(process.argv);
