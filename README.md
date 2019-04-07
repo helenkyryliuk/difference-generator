@@ -46,7 +46,7 @@ Using gendiff eliminates the need for the extra, original and unmodified directo
 `$ helen_gendiff --format plain first-config.json second-config.json`  
 
  <p align="center">
-  <img alt="helen_gendiff --format plain first-config.json second-config.json" height="400"  src="https://user-images.githubusercontent.com/29301041/55676421-22917500-5929-11e9-87b6-a305cddb0b26.png">
+  <img alt="helen_gendiff --format plain first-config.json second-config.json"  src="https://user-images.githubusercontent.com/29301041/55676421-22917500-5929-11e9-87b6-a305cddb0b26.png">
 </p>
 
 `$ helen_gendiff --format json first-config.json second-config.json`  
@@ -60,3 +60,6 @@ Using gendiff eliminates the need for the extra, original and unmodified directo
 Project is created with:
 * ES6
 * Node.js
+* Eslint
+* Travic CI
+* Npm
